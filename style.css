@@ -20,7 +20,10 @@ main{
     justify-content: center;
 
 }
-
+main#no-flex{
+    display: block;
+    padding-left: 25%;
+}
 footer{
     padding: 1rem;
     color: #ccc;
